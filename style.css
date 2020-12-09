@@ -1,3 +1,7 @@
+.navbar-brand img{
+    width: 104px;
+    height: 88px;
+}
 .container{
     margin-bottom: 100px;
 }
@@ -10,4 +14,42 @@
 }
 .price{
     color:#ff136f;
+}
+.cat1, .cat2, .cat3{
+    
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color:orange
+    
+}
+.cat2{
+    background-color: orchid;
+
+}
+.cat3{
+    background-color: rgb(96, 40, 228);
+}
+
+.categories h1{
+    color: white;
+    
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+#subscribe button{
+    margin-top: 10px;
 }
